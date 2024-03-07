@@ -1,1 +1,2 @@
 # Taxi-Fare-Predictor-Leveraging-Linear-Regression-
+This project aims to develop a robust taxi fare prediction model using linear regression. By analyzing historical taxi ride data encompassing various factors such as distance traveled, time of day, and additional surcharges, the model predicts the fare for future taxi rides. Through this project, we seek to optimize fare estimation accuracy, providing both taxi drivers and passengers with reliable fare estimates.
